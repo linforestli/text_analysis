@@ -1,4 +1,4 @@
-# Text Analysis Program - API Documentation
+# Text Analysis Tool - API Documentation
 
 ## Overview
 
