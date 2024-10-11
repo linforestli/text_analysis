@@ -38,29 +38,30 @@ Provide the filename for the output file with extension (typically .txt) and pre
 
 3. **Example Output**:
 ```bash
-Text analysis of data/thelifeofchuck.txt
-Word count: 2350
-Sentence count: 120
-Unique words count: 923
-Average sentence length (words per sentence): 19.58
-Lexical diversity: 0.39
-Readability score: 62.43
-Readability level: 10th to 12th grade: Fairly difficult to read.
-10 Most common words:
-    the
-    and
-    to
-    of
-    a
-    in
-    that
-    is
-    it
-    he
-Word frequency:
-    the: 150
-    and: 120
-    ...
+Text analysis of data/hamilton.txt
+Word count: 967
+Sentence count: 29
+Unique words count: 387
+Average sentence length (words per sentence): 33.34
+Lexical diversity: 0.4
+Readability score: 33.89
+Readability level: College: Difficult to read.
+10 Most common words: 
+	the
+	of
+	to
+	a
+	be
+	that
+	and
+	would
+	in
+	we
+Word frequency: 
+	to: 43
+	the: 74
+	people: 3
+ ...
 ```
 
 ## License
