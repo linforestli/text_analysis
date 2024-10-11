@@ -13,7 +13,7 @@ This is a Python program that performs text analysis on a given file, providing 
 
 ## How to Run the Program
 
-The Python Notebook is publicly accessible through [Text Analysis Tool - Google Colab](https://colab.research.google.com/drive/1kcKcE2turc6P_Dc4YsNneGe3rgA-q5zY?usp=sharing).
+The Python Notebook is publicly accessible through [Text Analysis Tool - Google Colab](https://colab.research.google.com/github/linforestli/text_analysis/blob/main/text_analysis_tool.ipynb).
 
 Alternatively, clone or download the [repository](https://github.com/linforestli/text_analysis). Then run the program using Python and follow the prompts.
 ```bash
