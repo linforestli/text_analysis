@@ -5,7 +5,11 @@
 This is a Python program that performs text analysis on a given file, providing statistics such as word count, sentence count, lexical diversity, readability score, and more. The program also outputs the top 10 most common words in the text and a frequency count for each word.
 
 ## Repository Contents
-
+- `data` contains sample input data
+- `API_documentation` explains the functions
+- `main.py` main program to run
+- `text_analysis_tool.ipynb` copy of the original Python notebook
+- `report_hamilton.txt` sample output file
 
 ## How to Run the Program
 
